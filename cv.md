@@ -32,18 +32,20 @@ Programming languages:
 * JavaScript 
 * SQL
 
-### Code example
-`
-    function multiply(a, b){
-    return a * b;
-    }
-`
-
 Programs:
 * MS Visual studio 
 * VS Code
 * DBeaver
 * Git Bash
+
+## Code example
+`
+    function multiply(a, b){
+
+    return a * b;
+
+    }
+`
 
 ## Personal qualities
 Responsible
