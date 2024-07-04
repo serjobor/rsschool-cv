@@ -27,9 +27,7 @@ Now I am actively studying frontend development and continue to strengthen the k
 ## Skills
 Programming languages:
 * C/C++
-* HTML 
-* CSS 
-* JavaScript 
+* HTML, CSS, JavaScript 
 * SQL
 
 Programs:
